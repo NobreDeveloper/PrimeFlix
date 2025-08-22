@@ -2,8 +2,8 @@
 
 ## Inicialização
 
-`npm install`
-`npm start`
+npm install
+npm start
 
 ## Ferramentas
 
