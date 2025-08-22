@@ -2,14 +2,14 @@
 
 ## Inicialização
 
-### `npm install`
-### `npm start`
+`npm install`
+`npm start`
 
 ## Ferramentas
 
-### `React.js`
-### `Axios`
-### `LocalStorage`
+`React.js`
+`Axios`
+`LocalStorage`
 
 ## Descrição
 
