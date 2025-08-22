@@ -3,6 +3,7 @@
 ## Inicialização
 
 npm install
+
 npm start
 
 ## Ferramentas
